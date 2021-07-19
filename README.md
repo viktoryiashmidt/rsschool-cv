@@ -1,15 +1,15 @@
 # CV VIKTORYIA SHMIDT 
 
-LOCATION
+**LOCATION**
 Babrujsk, Belarus
 
-PHONE NUMBER
+**PHONE NUMBER**
 +375 29 151-27-18
 
-E-MAIL
+**E-MAIL**
 shmidt.victoria15@gmail.com
 
-WORK EXPERIENCE
+**WORK EXPERIENCE**
 
 11/2019 – 04/2020
 Silk Data LLC, Minsk, Belarus
@@ -17,7 +17,7 @@ Silk Data LLC, Minsk, Belarus
 02/2019 – Present
 Freelance UI/UX Designer, Babrujsk, Belarus
 
-EDUCATION
+**EDUCATION**
 01/2021 – 03/2021
 IT-Academy (Hi-Tech Park Education Centre), Minsk, Belarus
 
@@ -27,11 +27,11 @@ DesignSpot School (EPAM Systems), Minsk, Belarus
 10/2018 – 01/2019
 IT-Academy (Hi-Tech Park Education Centre), Minsk, Belarus
 
-LANGUAGES
+**LANGUAGES**
 English (Upper-Intermediate)
 Belarusian (Native), Russian (Fluent)
 
-SKILLS
+**SKILLS**
 Adobe Photoshop
 Figma
 Axure
