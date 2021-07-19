@@ -1,0 +1,2 @@
+# rsschool-cv
+Viktoryia Shmidt
