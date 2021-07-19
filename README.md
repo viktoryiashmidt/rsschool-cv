@@ -28,11 +28,11 @@ DesignSpot School (EPAM Systems), Minsk, Belarus
 IT-Academy (Hi-Tech Park Education Centre), Minsk, Belarus
 
 **LANGUAGES**
-English (Upper-Intermediate)
-Belarusian (Native), Russian (Fluent)
+* English (Upper-Intermediate)
+* Belarusian (Native), Russian (Fluent)
 
 **SKILLS**
-Adobe Photoshop
-Figma
-Axure
+* Adobe Photoshop
+* Figma
+* Axure
 
