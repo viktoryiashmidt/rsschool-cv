@@ -1,3 +1,4 @@
+<<<<<<< HEAD:cv.md
 # CV VIKTORYIA SHMIDT 
 
 **LOCATION**
@@ -35,4 +36,8 @@ IT-Academy (Hi-Tech Park Education Centre), Minsk, Belarus
 * Adobe Photoshop
 * Figma
 * Axure
+=======
+# VIKTORYIA SHMIDT
+https://viktoryiashmidt.github.io/rsschool-cv
+>>>>>>> main:README.md
 
