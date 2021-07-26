@@ -1,2 +1,2 @@
 # VIKTORYIA SHMIDT
-https://viktoryiashmidt.github.io/rsschool-cv/cv
+https://viktoryiashmidt.github.io/rsschool-cv
